@@ -1,0 +1,11 @@
+pre {
+    color:aqua;
+    background-color: rgb(224, 200, 200);
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: auto;
+    white-space: pre-wrap; /* Wraps long lines */
+    word-wrap: break-word; /* Breaks long words */
+}
