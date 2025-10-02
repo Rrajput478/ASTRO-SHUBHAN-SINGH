@@ -5,3 +5,8 @@ body {
 button {
     color: rgb(211, 91, 111)
 }
+#box {
+    background-color: rgb(224, 200, 200);
+    color:darkturquoise
+ 
+}
